@@ -29,5 +29,11 @@ Resultado
 
 Após identificar que alguns PCs estavam com endereços IP errados e estavam impedindo a comunicação, realizei as correções e testei de novo a comunicação nos dispositivos. Nos switches, verifiquei se possuiam endereços IP e o gateway. implementei o gateway padrão e configurei os endereços IP para permitir a comunicação na rede.
 
+<div align="center">
+
+Screenshot_391.png
+
+</div>
+
 Após essas correções, foi possível restabelecer a comunicação entre os dispositivos de ambas as redes.
 
