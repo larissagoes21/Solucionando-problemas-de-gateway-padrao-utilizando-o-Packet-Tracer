@@ -31,7 +31,7 @@ Após identificar que alguns PCs estavam com endereços IP errados e estavam imp
 
 <div align="center">
 
-<img src="./Screenshot_391.png" width="500">
+<img src="./Screenshot_391.png" width="700">
 
 
 
